@@ -1,10 +1,12 @@
 Tutorial 1 solutions by Dimitri Klimenko (tutor).
 
+
 (1) Commands and arguments.
 The runnable files and their arguments are
     navigation.NavigationSolver [input-file]
 and
     eight.EightPuzzleSolver [input-file]
+
 
 (2) Loading into Eclipse.
 To view and run the solutions, create a new Eclipse project,
