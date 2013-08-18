@@ -1,4 +1,4 @@
-package tutorial1.eight;
+package eight;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package tutorial1.navigation;
+package navigation;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

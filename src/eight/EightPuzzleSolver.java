@@ -1,4 +1,4 @@
-package tutorial1.eight;
+package eight;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

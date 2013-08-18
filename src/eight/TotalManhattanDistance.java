@@ -1,4 +1,4 @@
-package tutorial1.eight;
+package eight;
 
 import search.State;
 import search.heuristics.Heuristic;
