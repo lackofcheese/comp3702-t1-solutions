@@ -2,9 +2,9 @@ Tutorial 1 solutions by Dimitri Klimenko (tutor).
 
 (1) Commands and arguments.
 The runnable files and their arguments are
-    tutorial1.navigation.NavigationSolver [input-file]
+    navigation.NavigationSolver [input-file]
 and
-    tutorial1.eight.EightPuzzleSolver [input-file]
+    eight.EightPuzzleSolver [input-file]
 
 (2) Loading into Eclipse.
 To view and run the solutions, create a new Eclipse project,
@@ -23,6 +23,6 @@ download and install Apache Ant, and then run the command
 from the main project folder.
 
 Then the solvers can be run via the following commands:
-    java -cp bin tutorial1.navigation.NavigationSolver navigation.in
+    java -cp bin navigation.NavigationSolver navigation.in
 OR
-    java -cp bin tutorial1.eight.EightPuzzleSolver eight.in
+    java -cp bin eight.EightPuzzleSolver eight.in
