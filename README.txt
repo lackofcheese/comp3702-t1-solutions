@@ -4,7 +4,6 @@ Tutorial 1 solutions by Dimitri Klimenko (tutor).
 (1) Commands and arguments.
 The runnable files and their arguments are
     navigation.NavigationSolver [input-file]
-and
     eight.EightPuzzleSolver [input-file]
 
 
@@ -26,5 +25,4 @@ from the main project folder.
 
 Then the solvers can be run via the following commands:
     java -cp bin navigation.NavigationSolver navigation.in
-OR
     java -cp bin eight.EightPuzzleSolver eight.in
